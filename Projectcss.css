@@ -1,0 +1,67 @@
+
+.hero-image{
+  background-image: url("https://i0.wp.com/www.thisisopus.com/wp-content/uploads/2018/05/TrophyLogo-HeaderNoLogos.png?fit=1920%2C1080&ssl=1");
+  background-color: #cccccc;
+  height: 790px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text{
+  text-align: left;
+  position: absolute;
+  top: 84%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  color: Silver;
+}
+
+h1 
+{
+	color: silver;
+}
+
+footer {
+  background-color: #3366ff;
+  padding: 8px;
+  text-align: center;
+  color: white;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+  margin :25px 0;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+td, th 
+{
+  border-bottom: : 1px solid #ddd;
+  padding: 10px;
+  font-family: Sans-serif;
+}
+
+tr:hover {background-color: #ddd;}
+
+tr
+{
+	border-bottom: 1px solid LightBlue;
+}
+
+tr:last-of-type
+{
+	border-bottom: 2px solid Blue;
+}
+
+th {
+  font-size: 25px; 
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  background-color: Blue;
+  color: white;
+}
